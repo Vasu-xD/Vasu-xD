@@ -13,6 +13,8 @@
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=reyanXD)
-
 </details
+![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=reyanXD&show_icons=true&theme=tokyonight&layout=compact)
+
+
 
