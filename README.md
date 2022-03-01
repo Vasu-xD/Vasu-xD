@@ -4,6 +4,9 @@
 
 ##   **Github Stats**
 [![VASU github stats](https://github-readme-stats.vercel.app/api?username=reyanXD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/reyanXD)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=reyanXD&show_icons=true&theme=tokyonight&layout=compact)
+
+
 
 ### Let's connect!
 <p>
@@ -14,7 +17,5 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=reyanXD)
 </details
-![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=reyanXD&show_icons=true&theme=tokyonight&layout=compact)
-
 
 
