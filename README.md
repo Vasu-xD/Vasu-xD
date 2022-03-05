@@ -10,7 +10,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/reyanXD" target="blank"><img src="https://img.shields.io/badge/@reyanXD-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/VASUXD" target="blank"><img src="https://img.shields.io/badge/@VASUXD-30302f?style=flat&logo=telegram" /></a>
     </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
