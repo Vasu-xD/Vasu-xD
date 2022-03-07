@@ -1,21 +1,25 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> | [![Profile views](https://gpvc.arturio.dev/reyanXD)](https://github.com/reyanXD)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [⚝ ‌❛ ʳᵉᵞᵃⁿ‌ ❜ ✪](https://t.me/REYANxD) | [![Profile views](https://gpvc.arturio.dev/REYANxD)](https://github.com/REYANxD)
+I am 19 y.o. college student from Delhi, India🇮🇳 |
+I am noob😂 but still want to learn Python, Java, C, C++, Golang
+
+- **Currently learning: Python, Go, C, C++, Java, etc**
+
+## find me out at
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/REYANxD) [![Instagram](https://img.shields.io/badge/Instagram-1b77FF.svg?style=for-the-badge&logo=Instagram)](https://Instagram/REYAN.xD)
 
 
+[![REYAN github stats](https://github-readme-stats.vercel.app/api?username=REYANxD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/REYANxD)
+[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=REYANxD&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/REYANxD)
+[![REYANxD's github streak](https://github-readme-streak-stats.herokuapp.com/?user=REYANxD&theme=cobalt)](https://github.com/REYANxD/github-readme-streak-stats)
 
-##   **Github Stats**
-[![VASU github stats](https://github-readme-stats.vercel.app/api?username=reyanXD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/reyanXD)
-![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=reyanXD&show_icons=true&theme=tokyonight&layout=compact)
+### Now Playing 🎧
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xfrd2blwjvxovmqe7hp237fzb4)
 
-
-### Let's connect!
-<p>
-    <a href="https://t.me/VASUXD" target="blank"><img src="https://img.shields.io/badge/@VASUXD-30302f?style=flat&logo=telegram" /></a>
-    </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=reyanXD)
-</details
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=REYANxD)
 
+</details
 
