@@ -14,7 +14,7 @@ I am noob😂 but still want to learn Python, Java, C, C++, Golang
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xfrd2blwjvxovmqe7hp237fzb4)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31uaxqlo7cnakqb6mss227wuq7zq)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
