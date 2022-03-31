@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✪ ⚝ ᴠᴀꜱᴜ™✓★ ✪](https://t.me/REYANxD) | [![Profile views](https://gpvc.arturio.dev/VasuxD)](https://github.com/Vasu-xD)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✪ ⚝ ᴠᴀꜱᴜ™✓★ ✪](https://GitHub.com/VasuxD) | [![Profile views](https://gpvc.arturio.dev/VasuxD)](https://github.com/Vasu-xD)
 I am 19 y.o. college student from Delhi, India🇮🇳 |
 I am noob😂 but still want to learn Python, Java, C, C++, Golang
 
