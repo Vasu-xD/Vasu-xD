@@ -1,16 +1,16 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [⚝ ‌❛ ʳᵉᵞᵃⁿ‌ ❜ ✪](https://t.me/REYANxD) | [![Profile views](https://gpvc.arturio.dev/REYANxD)](https://github.com/REYANxD)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [✪ ⚝ ᴠᴀꜱᴜ™✓★ ✪](https://t.me/REYANxD) | [![Profile views](https://gpvc.arturio.dev/VasuxD)](https://github.com/Vasu-xD)
 I am 19 y.o. college student from Delhi, India🇮🇳 |
 I am noob😂 but still want to learn Python, Java, C, C++, Golang
 
 - **Currently learning: Python, Go, C, C++, Java, etc**
 
 ## find me out at
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/REYANxD) [![Instagram](https://img.shields.io/badge/Instagram-1b77FF.svg?style=for-the-badge&logo=Instagram)](https://Instagram/REYAN.xD)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/VasuxD) [![Instagram](https://img.shields.io/badge/Instagram-1b77FF.svg?style=for-the-badge&logo=Instagram)](https://Instagram/VasuxD)
 
 
-[![REYAN github stats](https://github-readme-stats.vercel.app/api?username=REYANxD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/REYANxD)
-[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=REYANxD&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/REYANxD)
-[![REYANxD's github streak](https://github-readme-streak-stats.herokuapp.com/?user=REYANxD&theme=cobalt)](https://github.com/REYANxD/github-readme-streak-stats)
+[![Vasu github stats](https://github-readme-stats.vercel.app/api?username=Vasu-xD&show_icons=true&theme=cobalt&count_private=true)](https://github.com/Vasu-xD)
+[![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=Vasu-xD&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Vasu-xD)
+[![Vasu-xD's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasu-xD&theme=cobalt)](https://github.com/Vasu-xD/github-readme-streak-stats)
 
 ### Now Playing 🎧
 
@@ -19,7 +19,7 @@ I am noob😂 but still want to learn Python, Java, C, C++, Golang
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=REYANxD)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Vasu-xD)
 
 </details
 
